@@ -25,20 +25,20 @@ Open the `index.html` file in any modern web browser to launch the application.
   - Zero appears in black.
 - **Responsive Design**: The application layout is clean and works seamlessly on various screen sizes.
 
-##Technologies Used
+## Technologies Used
 
 - **HTML5**: For the application structure.
 - **CSS3**: For styling and responsive design.
 - **JavaScript**: For dynamic functionality and interactivity.
 - **Bootstrap**: For additional styling and layout enhancements.
 
-##File Structure
+## File Structure
 
 - `index.html`: Main HTML file containing the structure of the counter application.
 - `index.css`: CSS file for styling the application.
 - `index.js`: JavaScript file for implementing the counter functionality.
 
-##Note
+## Note
 
 Ensure you have a modern web browser to run the application effectively. No additional dependencies or installations are required.
 
